@@ -1,0 +1,57 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+import { getCollection } from "astro:content";
+import createSlug from "../lib/createSlug"
+
+const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const last_posts = posts.slice(0, 3);
+---
+
+<BaseLayout sideBarActiveItemID="home">
+  <div class="pb-12 mt-5">
+    <div class="text-5xl font-bold mb-3">I'm Helen (Heyi) Han</div>
+    <!-- <div class="text-2xl py-3 font-bold">High School Student, Speaker, Artist</div> -->
+    <div class="py-2">
+      <p class="text-lg mb-2">
+       👋 My name is Helen, and I’m a high school student who is passionate about communication, creativity, and cultural connection.
+      </p>
+      <p class="text-lg mb-2">
+        From music and art to debate and documentary storytelling, I love exploring how ideas can inspire empathy and change.
+      </p>
+      <p class="text-lg mb-2">
+        At age eleven, I gave a <b>TEDx Talk</b> that sparked my love for public speaking and sharing ideas that matter. In high school, I continued this journey through <b>debate and public speaking competitions</b>, where I learned how to think critically, speak with purpose, and listen with empathy. 
+      </p>
+      <p class="text-lg mb-2">
+        Beyond school, I serve as a volunteer bilingual speaker for community projects such as <b>Huá Tóng Huà</b>, a storytelling series sharing Chinese American immigrant stories. In <b>2024</b>, I represented youth voices at the <b>Chinese American Convention in Washington, D.C.</b>, where I visited Congress, interviewed lawmakers, and delivered a bilingual speech at the celebration event.
+      </p>
+      <p class="text-lg mb-2">
+        These experiences inspired me to create <b>AI-assisted documentaries</b> that capture the voices and experiences of Chinese immigrants—combining technology and storytelling to preserve cultural memory for future generations.
+      </p>
+      <p class="text-lg">
+        Whether performing, creating, or filming, I hope my work continues to build bridges between cultures and generations through the power of stories.
+      </p>
+    </div>
+  </div>
+
+  <div>
+    <div class="text-3xl w-full font-bold mb-5 mt-5">My Experiences</div>
+  </div>
+
+  {
+    last_posts.map((post) => (
+      <>
+        <HorizontalCard
+          title={post.data.title}
+          img={post.data.heroImage}
+          desc={post.data.description}
+          url={"/experiences/" + createSlug(post.data.title, post.slug)}
+          target="_self"
+          badge={post.data.badge}
+        />
+        <div class="divider my-0" />
+      </>
+    ))
+  }
+</BaseLayout>
