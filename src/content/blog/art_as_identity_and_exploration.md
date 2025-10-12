@@ -10,6 +10,6 @@ My artwork explores emotion, memory, and identity through color and composition.
 In doing so, I also employ a multitude of techniques and mediums to portray such depictions. These mediums include oil painting, Chinese traditional ink paintings, Watercolor paintings, Digital media, and even encaustic wax techniques. Explorations of these mediums help me find meaning in textures, colors, and just the process of art. 
  
 ### Honors include:
-Gold Key, Scholastic Art & Writing Awards (2024, Writing Category)
-Honorable Mentions, Scholastic Art & Writing Awards (2022)
-Grand Prize & Cover Winner, MCCEA Poster Contest (2023)
+* Gold Key, Scholastic Art & Writing Awards (2024, Writing Category)
+* Honorable Mentions, Scholastic Art & Writing Awards (2022)
+* Grand Prize & Cover Winner, MCCEA Poster Contest (2023)

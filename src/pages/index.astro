@@ -6,7 +6,7 @@ import createSlug from "../lib/createSlug"
 
 const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const last_posts = posts.slice(0, 3);
+const last_posts = posts;
 ---
 
 <BaseLayout sideBarActiveItemID="home">
@@ -18,13 +18,13 @@ const last_posts = posts.slice(0, 3);
        👋 Hi! I’m Helen — a high school student who loves exploring the power of <b>creativity</b>, <b>communication</b>, and <b>cultural connection</b>. I’ve always believed that stories can bring people together, whether through music, art, or words. 
       </p>
       <p class="text-lg mb-2">
-        I gave my first <b>TEDx Talk</b> at eleven and have since continued sharing ideas that spark empathy and understanding.
+        I gave my first <a class="link" target="_blank" href="https://www.youtube.com/watch?v=kQLx9FkPokQ"><b>TEDx Talk</b></a> at eleven and have since continued sharing ideas that spark empathy and understanding.
       </p>
       <p class="text-lg mb-2">
-        Beyond school, I volunteer as a bilingual speaker for Huá Tóng Huà, a storytelling series sharing Chinese American immigrant experiences, and represented youth voices at the <b>Chinese American Convention in Washington, D.C.</b> in 2024.
+        Beyond school, I volunteer as a bilingual speaker for <a class="link" href="/experiences/art-as-history"><b>Huá Tóng Huà</b></a>, a storytelling series sharing Chinese American immigrant experiences, and represented youth voices at the <a class="link" href="/experiences/our-voices-our-history"><b>Chinese American Convention in Washington, D.C.</b></a> in 2024.
       </p>
       <p class="text-lg mb-2">
-        Now, I’m creating <b>AI-assisted documentaries</b> that blend technology and storytelling to celebrate heritage and connect communities across generations.
+        Now, I’m creating <a class="link" href="/experiences/using-the-future-to-tell-the-past"><b>AI-assisted documentaries</b></a> that blend technology and storytelling to celebrate heritage and connect communities across generations.
       </p>
     </div>
   </div>
