@@ -2,7 +2,7 @@
 title: "My first TEDx talk"
 description: "From my first TEDx talk in fifth grade to high school debate championships and bilingual storytelling events, public speaking has shaped my voice as a communicator and leader.
 In 2024, I represented youth speakers at the Chinese American Convention in Washington, D.C., leading peers to visit Capitol Hill and deliver a bilingual speech on immigrant history."
-pubDate: "Sep 11 2022"
+pubDate: "Sep 11 2021"
 heroImage: "/blog_ted.webp"
 heroVideo: "https://www.youtube.com/embed/kQLx9FkPokQ?si=KHuQvucjQhqa7_YY"
 tags: ["public speaking"]
