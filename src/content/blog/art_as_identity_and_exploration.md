@@ -9,7 +9,31 @@ My artwork explores emotion, memory, and identity through color and composition.
 
 In doing so, I also employ a multitude of techniques and mediums to portray such depictions. These mediums include oil painting, Chinese traditional ink paintings, Watercolor paintings, Digital media, and even encaustic wax techniques. Explorations of these mediums help me find meaning in textures, colors, and just the process of art. 
  
-### Honors include:
-* Gold Key, Scholastic Art & Writing Awards (2024, Writing Category)
-* Honorable Mentions, Scholastic Art & Writing Awards (2022)
-* Grand Prize & Cover Winner, MCCEA Poster Contest (2023)
+## Honors include:
+
+![](/Grit_Award_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Grand Prize & Cover Winner, MCCEA Poster Contest (2023)</b> 
+  </div>
+</div>
+
+![](/award_certificate_work_14349506_Honorable_Mention_Han_Heyi.jpeg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Honorable Mentions - Spring in winter painting, Scholastic Art & Writing Awards (2022)</b> 
+  </div>
+</div>
+
+![](/award_certificate_work_14349568_Honorable_Mention_Han_Heyi.jpeg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Honorable Mentions - Summer Symphony painting, Scholastic Art & Writing Awards (2022)</b> 
+  </div>
+</div>
+
+![](/Gold_Key_Certificate.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Gold Key, Scholastic Art & Writing Awards (2024, Writing Category)</b> 
+  </div>
+</div>
+
+
+Here are some of my works that utilize a multitude of mediums and explorations:
