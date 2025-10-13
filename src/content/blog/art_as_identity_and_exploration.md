@@ -92,3 +92,43 @@ Here are some of my works that utilize a multitude of mediums and explorations:
 </div>
 
 
+![](/Yin_Yang_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Yin Yang</b> 
+  </div>
+</div>
+
+
+![](/Cats_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Romeo and Archie</b> 
+  </div>
+</div>
+
+![](/Concert_optimized_250.jpeg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>The Concert</b> 
+  </div>
+</div>
+
+![](/Graceful_Pondering_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Graceful Pondering</b> 
+  </div>
+</div>
+
+
+![](/Me_with_my_Brother_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Me and my Brother</b> 
+  </div>
+</div>
+
+![](/imagination_optimized_250.png)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Imagination</b> 
+  </div>
+</div>
+
+
+
