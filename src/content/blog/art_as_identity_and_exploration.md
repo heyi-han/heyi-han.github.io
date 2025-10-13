@@ -11,6 +11,7 @@ In doing so, I also employ a multitude of techniques and mediums to portray such
  
 ## Honors include:
 
+
 ![](/Grit_Award_optimized_250.jpg)
 <div class="flex justify-center items-center">
   <div class="max-w-[80%] text-sm"><b>Grand Prize & Cover Winner, MCCEA Poster Contest (2023)</b> 
@@ -37,3 +38,57 @@ In doing so, I also employ a multitude of techniques and mediums to portray such
 
 
 Here are some of my works that utilize a multitude of mediums and explorations:
+
+![](/blossoms_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Spring in Winter</b> 
+  - Scholastic Art & Writing Awards (2022)
+  </div>
+</div>
+
+![](/Summer_Symphony_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Summer Symphony</b> 
+  - Scholastic Art & Writing Awards (2022)
+  </div>
+</div>
+
+
+
+![](/Brother_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Me and My Brother</b> 
+  </div>
+</div>
+
+![](/Dragon_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Dragon</b> 
+  </div>
+</div>
+
+![](/Friendship_1_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Friendship</b> 
+  </div>
+</div>
+
+![](/crab_1_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Mid-Autumn Festival</b> 
+  </div>
+</div>
+
+![](/Dance_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Dance</b> 
+  </div>
+</div>
+
+![](/Peacock_optimized_250.jpg)
+<div class="flex justify-center items-center">
+  <div class="max-w-[80%] text-sm"><b>Peacock</b> 
+  </div>
+</div>
+
+
