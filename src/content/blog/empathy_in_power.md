@@ -1,6 +1,6 @@
 ---
 title: "Empathy in Power"
-description: "Exploring how empathy and representation shape leadership and social equity through research at Rutgers University. Collaborated on Women’s Representation and Compassionate Policy Making under Professor Pengjun Zhang, designing interview questions for female mayors and presenting findings on gendered leadership and compassionate governance at SPAA."
+description: "Exploring how empathy and representation shape leadership and social equity through research at Rutgers University. Collaborated on Women’s Representation and Compassionate Policy Making under Professor Pengju Zhang, designing interview questions for female mayors and presenting findings on gendered leadership and compassionate governance at SPAA."
 pubDate: "Sep 06 2022"
 heroImage: "/empathy_in_power_1.jpg"
 tags: ["Leadership Studies", "Gender and Politics", "Empathy in Leadership", "Social Change", "Youth Perspective in Governance", "Public Speaking"]

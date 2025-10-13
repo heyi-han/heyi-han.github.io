@@ -1,6 +1,6 @@
 ---
 title: "Community Involvement"
-description: "I contribute to the community through historical research, writing, and oral histories, helping preserve local stories and heritage. As a student member of the Mountain Lakes Historic Preservation Committee, I participate in projects that celebrate and document our shared history."
+description: "As a student member of the Mountain Lakes Historic Preservation Committee, I participate in projects that celebrate and document our shared history; contributing to the community through historical research, writing, and oral histories, helping preserve local stories and heritage."
 pubDate: "Sep 05 2022"
 heroImage: "/community_involvement_1.jpg"
 tags: ["Local History", "Historic Preservation", "Oral History", "Storytelling", "Intergenerational Connection", "Public Humanities"]

@@ -1,6 +1,6 @@
 ---
 title: "Our Voices, Our History"
-description: "I contribute to the community by promoting AAPI heritage and cultural awareness through programs with the North American Maple Cultural Center and other initiatives, organizing events, leading youth engagement, and fostering connections that celebrate history, identity, and shared experiences."
+description: "Contributing to the community by promoting AAPI heritage and cultural awareness through programs with the North American Maple Cultural Center and other initiatives, organizing events, leading youth engagement, and fostering connections that celebrate history, identity, and shared experiences."
 pubDate: "Sep 10 2022"
 heroImage: "/our_voices_our_history_1.webp"
 tags: ["identity", "personal narrative", "Introspection", "Experience", "Cultural Reflection", "Public Speaking"]

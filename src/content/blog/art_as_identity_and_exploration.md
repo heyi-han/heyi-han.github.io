@@ -1,6 +1,6 @@
 ---
 title: "Art as Identity and Exploration"
-description: "My artwork explores emotion, memory, and identity through color, texture, and composition. Using mediums such as oil, ink, watercolor, digital, and encaustic wax, I capture fleeting moments and inner tension, transforming art into both a personal archive and a dialogue between self and world."
+description: "Exploring emotion, memory, and identity through color, texture, and composition using mediums such as oil, ink, watercolor, digital, and encaustic wax — capturing fleeting moments and inner tension, transforming art into both a personal archive and a dialogue between self and world."
 pubDate: "Sep 11 2022"
 heroImage: "/art_as_Identity_and_exploration_1.webp"
 tags: ["Art", "Chinese American history", "Community Engagement", "Bilingual Storytelling", "Illustration", "Exhibition work"]

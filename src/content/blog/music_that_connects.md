@@ -1,6 +1,6 @@
 ---
 title: "Music that Connects"
-description: "I have studied the Chinese lute, pipa, since age ten—a journey that has become one of the most meaningful parts of my identity. What began as a childhood curiosity has evolved into a lifelong pursuit of artistic expression and cultural connection. Whether performing on stage or practicing quietly alone, I feel a sense of harmony between my cultural roots and my personal growth—each note a reminder of where I come from and how I continue to evolve as both a musician and an individual."
+description: "I have studied the Chinese lute, pipa, since age ten—a journey that has become one of the most meaningful parts of my identity. What began as a childhood curiosity has evolved into a lifelong pursuit of artistic expression and cultural connection."
 pubDate: "Sep 08 2022"
 heroImage: "/music_that_connects_1.jpg"
 tags: ["Traditional Music", "Pipa", "Cross-Cultural Expression", "Identity", "Community Engagement", "Music and Storytelling"]

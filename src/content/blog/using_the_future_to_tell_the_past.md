@@ -1,6 +1,6 @@
 ---
 title: "Using the Future to Tell the Past"
-description: "I created an AI-assisted short documentary on Joseph Pierce, a Chinese American Union soldier in the Civil War, blending visual storytelling, historical research, and technology. Through this project, I reimagined history while tracing my own journey of rediscovery, connecting personal curiosity with collective memory."
+description: "Creating an AI-assisted short documentary on Joseph Pierce, a Chinese American Union soldier in the Civil War, blending visual storytelling, historical research, and technology. Through this project, I reimagined history while tracing my own journey of rediscovery, connecting personal curiosity with collective memory."
 pubDate: "Sep 09 2022"
 heroImage: "/using_the_future_to_tell_the_past_1.jpg"
 heroVideo: "https://www.youtube.com/embed/_4wbCm_0reo?si=cSIvX_BzujqeBNAq"
