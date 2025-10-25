@@ -3,7 +3,7 @@ title: "Music that Connects"
 description: "I have studied the Chinese lute, pipa, since age ten—a journey that has become one of the most meaningful parts of my identity. What began as a childhood curiosity has evolved into a lifelong pursuit of artistic expression and cultural connection."
 pubDate: "Sep 08 2022"
 heroImage: "/music_that_connects_1.jpg"
-heroVideo: "https://www.youtube.com/embed/_4wbCm_0reo?si=cSIvX_BzujqeBNAq"
+heroVideo: "https://www.youtube.com/embed/tfjVJXdSp6M?si=PqSP7XGED4DEDd4J"
 tags: ["Traditional Music", "Pipa", "Cross-Cultural Expression", "Identity", "Community Engagement", "Music and Storytelling"]
 ---
 ## Solo Performance at Carnegie Hall
@@ -11,6 +11,7 @@ tags: ["Traditional Music", "Pipa", "Cross-Cultural Expression", "Identity", "Co
 
 Awarded **1st Place**, New York Golden Classical Music Award (2023); **invited for solo performance at Carnegie Hall**
 
+![music that connects](/music_that_connects_1.jpg)
 ![music that connects](/music_that_connects_2.jpg)
 ![music that connects](/music_that_connects_3.jpg)
 

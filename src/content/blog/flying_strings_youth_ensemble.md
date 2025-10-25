@@ -22,6 +22,8 @@ Our mission is to **promote Chinese music and cross-cultural understanding** thr
 
 Under my leadership, our ensemble received the **Gold Award at the 2025 U.S. Youth Leadership Summit**.
 
+![our voice our history](/flying_strings_youth_ensemble_5.JPG)
+
 To explore our journey, feel free to visit our website [flyingstrings.org](https://fsye.org/), follow our [instagram](https://www.instagram.com/flying_strings_ye/?utm_source=ig_web_button_share_sheet&igsh=MWZpd3pneDNvOGtoZg%3D%3D#) and watch our videos on our [youtube channel](https://www.youtube.com/@flyingstringofficial)
 
 ![our voice our history](/flying_strings_youth_ensemble_4.png)
